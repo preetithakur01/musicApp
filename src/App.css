@@ -1,0 +1,129 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-size: 40px !important;
+  color: #9a1037;
+}
+
+.icons h2 {
+  display: inline-block;
+}
+
+.css-mhc70k-MuiGrid-root > .MuiGrid-item {
+  padding-top: 30px !important;
+}
+
+.mt-40 {
+  margin-top: 40px !important;
+}
+
+.mt-30 {
+  margin-top: 30px !important;
+}
+
+.pt-30 {
+  padding-top: 25px !important;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.d-flex h4 {
+  color: #02bde3;
+  padding-bottom: 40px;
+}
+
+.d-flex h4 span {
+  color: #222;
+  margin-top: 20px !important;
+}
+
+.clr {
+  color: #02bde3;
+  padding-top: 10px;
+}
+
+.footer h4 {
+  font: 15px "Open Sans", sans-serif;
+}
+
+.footer li {
+  display: block;
+  color: #999;
+  font: 13px "Open Sans", sans-serif;
+  line-height: 22px;
+}
+.footer-icons li {
+  display: inline-block;
+  background-color: #fff;
+  padding: 5px;
+  font-size: 15px;
+}
+
+.like-icon {
+  background: rgb(12 139 235);
+  border: 1px solid rgb(12 139 235);
+  border-radius: 5px;
+  padding-left: 3px;
+  width: 130px;
+  color: #fff;
+  cursor: pointer;
+  font-family: Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+/* .css-1t29gy6-MuiToolbar-root {
+  background-color: #d1cbcb; */
+/* } */
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root{
+  background-color: #222 !important;
+}
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  background-color: grey !important;
+}
+/* .css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  margin-top: 1rem;
+} */
+
+.css-1qcn9ul-MuiButtonBase-root-MuiButton-root {
+  margin-left: 82rem !important;
+}
+
+/* .container-1{
+  background-color: #999;
+
+} */
+
+.container-1 {
+  background-image: url("https://png.pngtree.com/background/20221225/original/pngtree-blue-musical-notes-background-picture-image_1986629.jpg");
+  height: 75vh;
+  background-repeat: round;
+  /* background-color: #666262; */
+}
